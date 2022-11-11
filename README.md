@@ -1,6 +1,5 @@
 <h1 align="center">$HOME</h1>
 <h3 align="center">~$</h3>
-<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="cozy" width="480" height="360" align="right" >
 
 
 - 👨‍💻 Currently learning **C/C++, Machine learning and Data Analysis**
